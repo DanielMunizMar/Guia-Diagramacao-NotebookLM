@@ -1,0 +1,1 @@
+# Guia-de-Diagrama-o-com-o-NotebookLM
